@@ -1,0 +1,5 @@
+Testing git configuration with:
+Name: kooder-ai[bot] ✅
+Email: 1312266+kooder-ai[bot]@users.noreply.github.com
+
+This is a test commit to verify the configuration is working properly.
